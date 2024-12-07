@@ -76,7 +76,7 @@ If you'd like to contribute, please fork the repository and make changes as you'
 
 ## Authors
 
-- [Lucian BLETAN](https://github.com/exaluc) - Initial work
+- [Lucian BLETAN](https://github.com/gni) - Initial work
 
 ## License
 
